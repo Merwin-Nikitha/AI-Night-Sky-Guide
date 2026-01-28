@@ -44,10 +44,10 @@ practical night sky observation.
 ## Screenshots
 
 ### Home Screen
-![Home Screen](Screenshots/HomeScreen.jpg)
+![Home Screen](Screenshots/Home_Screen.jpg)
 
 ### Sky Result Screen
-![Sky Result Screen](Screenshots/SkyResultScreen.jpg)
+![Sky Result Screen](Screenshots/Sky_Result_Screen.jpg)
 
 ### AI Guide Screen
-![AI Guide Screen](Screenshots/AIGuideScreen.jpg)
+![AI Guide Screen](Screenshots/AI_Guide_Screen.jpg)
