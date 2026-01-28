@@ -40,3 +40,14 @@ practical night sky observation.
 - Adding more constellations
 - Seasonal sky visibility
 - Map-based location view
+
+## Screenshots
+
+### Home Screen
+![Home Screen](Screenshots/Home Screen.jpg)
+
+### Sky Result Screen
+![Sky Result Screen](Screenshots/Sky Result Scree.jpg)
+
+### AI Guide Screen
+![AI Guide Screen](Screenshots/AI Guide Screen.jpg)
